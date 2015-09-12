@@ -1,6 +1,7 @@
 #Intellectual Property Agreement
 
->>This Intellectual Property Agreement is made on 10/9/2015 between The University of Puerto Rico at Mayaguez, including its Faculty, Employees and assistants, having its main office at 259 Blvd. Alfonso Valdez Cabian, Mayagüez 00680, and the founders of RUMiT hereby referred as “The Project” the application program developed at the course of Databases “ICOM-5016” Given by Bienvenido Velez having  David Bartolomei as TA. 
+...This Intellectual Property Agreement is made on 10/9/2015 between The University of Puerto Rico at Mayaguez, including its Faculty, Employees and assistants, having 
+...its main office at 259 Blvd. Alfonso Valdez Cabian, Mayagüez 00680, and the founders of RUMiT hereby referred as “The Project” the application program developed at the ...course of Databases “ICOM-5016” Given by Bienvenido Velez having  David Bartolomei as TA. 
 
 ##1. Ownership of the Project and Intellectual Property.
 
